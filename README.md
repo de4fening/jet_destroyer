@@ -12,7 +12,7 @@
 - Никанов Иван — Scrum master, developer
 - Макаров Александр — developer
 - Гаврильчик Кирилл — developer
-- Ковальский Денис — ублюдок
+- Ковальский Денис — developer
 
 ## Ссылки
 - Trello : https://trello.com/b/7l9KDx5A/resthunter
